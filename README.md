@@ -9,6 +9,18 @@
 
 ---
 
+## 👩‍💻 Desenvolvedora
+
+| Karen Ubial P.  | 
+
+---
+
+## 🎥 Vídeo de Apresentação
+
+[📺 Clique aqui para assistir à apresentação do projeto no YouTube]([https://www.youtube.com/watch?v=ID_DO_VIDEO](https://youtu.be/eE8N7bl_UGc))
+
+---
+
 ## 📱 Funcionalidades
 
 - Exibição de uma galeria de obras em uma grade.
