@@ -46,7 +46,7 @@ class DetalheObraViewController: UIViewController {
         
         artistaLabel.text = "Artista: \(obra.artista)"
         anoLabel.text = "Ano: \(obra.ano)"
-        descricaoLabel.text = "Estilo: \(obra.estilo)"
+        estiloLabel.text = "Estilo: \(obra.estilo)"
         descricaoLabel.text = obra.descricao
         descricaoLabel.numberOfLines = 0
         
